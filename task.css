@@ -1,0 +1,42 @@
+a:visited{
+    color: black;
+}
+a:hover{
+ color: whitesmoke;
+}
+.styling1{
+font-family: fantasy;
+font-size: 25px;
+text-align: center;
+margin: 5px;
+text-decoration: none;
+}
+.styling2{
+font-family: fantasy;
+text-decoration: line-through;
+font-size: 25px;
+text-align: center;
+margin: 5px;
+
+}
+.styling3{
+font-family: fantasy;
+font-size: 25px;
+text-align: center;
+margin: 5px;
+text-decoration: none;
+}
+.styling4{
+font-family: fantasy;
+font-size: 25px;
+text-align: center;
+margin: 5px;
+text-decoration: none;
+}
+.styling5{
+font-family: fantasy;
+font-size: 25px;
+text-align: center;
+margin: 5px;
+text-decoration: none;
+}
