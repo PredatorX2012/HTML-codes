@@ -1,0 +1,63 @@
+a:hover{
+color: black;
+}
+a:visited{
+    color: white;
+}
+.border{
+    height: 70px;
+    width: 70px;
+    border: 3px solid;
+    border-radius: 40px;
+}
+.center{
+    text-align: center;
+}
+.absolute{
+   
+    position: absolute;
+}
+.size{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+    color: white;
+    font-size: 40px;
+}
+.styling{
+    border: 3px solid;
+    width: 1024px;
+}
+.styling1{
+    border: 3px solid;
+    width: 250px;
+margin: 10px;
+position: relative;
+top: 265px;
+}
+.border2{
+    border: 2px solid;
+    padding: 3px;
+    border-color: white;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    text-decoration: none;
+   
+}
+.styling2{
+border: 3px solid;
+width: 250px;
+position: relative;
+left: 600px;
+margin: 10px;
+float: left;
+}
+.styling3{
+border: 3px solid;
+width: 250px;
+float: right;
+margin: 10px;
+}
+.position{
+    text-align: center justify;
+}
