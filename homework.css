@@ -1,0 +1,11 @@
+.border{
+    border: 2px solid;
+   padding: 10px;
+   border-collapse: collapse;
+}
+.background-color{
+    background-color: darkcyan;
+}
+.background-color2{
+    background-color: lightblue;
+}
