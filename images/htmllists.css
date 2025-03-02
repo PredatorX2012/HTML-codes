@@ -1,0 +1,17 @@
+.design{
+    background-color: darkred;
+    color: white;
+    text-decoration: none;
+    padding: 25px;
+    padding-inline: 140px;
+    float: left;
+    margin: 0px;
+    overflow: auto;
+}
+a:hover{
+    background-color: gray;
+    color: white;
+}
+.position{
+    float: left;
+}
