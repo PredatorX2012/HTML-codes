@@ -1,0 +1,23 @@
+.size{
+    width: 350px;
+    height: 170px;
+    float: left;
+    margin: 50px;
+}
+.color{
+    color: wheat;
+}
+.border{
+    border: 3px solid white;
+    width: 400px;
+    height: 240px; 
+    float: left;
+    margin: 10px;
+}
+.design{
+    height: 75px;
+    width: 75px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 55px;
+    float: right;
+}
