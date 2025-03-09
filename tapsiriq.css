@@ -1,0 +1,47 @@
+.h1{
+    float: left;
+}
+.p{
+    width: 100px;
+    height: 30px;
+    margin: 5px;
+    padding: 3px;
+    float: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.design{
+    color: darkslategrey;
+    border: 2px solid darkslategrey;
+}
+.design-p{
+    background-color: darkslategrey;
+    color: white;
+    
+}
+.img{
+    width: 100%;
+    height: 600px;
+}
+.div{
+    position: absolute;
+    background-color: rgba(250, 250, 250, 0.4);
+    width: 600px; 
+    height: 300px;
+    top: 25%;
+    left: 5%;
+}
+.p2{
+    border: 2px solid darkslategrey;
+    width: 140px;
+    padding: 15px; 
+    float: left;
+    margin: 10px;
+     color: white;
+     background-color: darkslategrey;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.p-size{
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
