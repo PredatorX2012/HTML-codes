@@ -1,0 +1,11 @@
+.container{
+    border: 2px solid black;
+    left: 35%;
+    width: 35%;
+    height: 20%;
+    position: relative;
+}
+.text-position{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
