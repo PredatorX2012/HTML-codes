@@ -1,0 +1,24 @@
+.input{
+  
+}
+.submit{
+    width: 200px;
+    height: 50px;
+    color: white;
+    background-color: mediumvioletred;
+    font-family:'Courier New', Courier, monospace;
+}
+.img{
+width: 30%;
+height:120%;
+float: right;
+}
+.h{
+    display: inline;
+}
+.a{
+    text-decoration: none;
+    color: grey;
+    margin: 30px;
+
+}
