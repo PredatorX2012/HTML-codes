@@ -1,0 +1,39 @@
+header,article,aside,div,footer{
+    border: 2px solid;
+    margin: 20px;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.width{
+    width: 200px;
+    text-align: center;
+    background-color: lightpink;
+    display: flex;
+}
+section{
+    border: 2px solid;
+    height: 600px;
+    width: 600px;
+    background-color: rgb(73, 228, 220);
+
+}
+.width-aside{
+    width: 250px;
+    height: 270px;
+    float: right;
+    background-color: tomato;
+    text-align: center;
+}
+div{
+    height: 40px;
+    width: 40px;
+    flex-direction: column;
+   
+}
+.header{
+    background-color: lightyellow;
+}
+.footer{
+    background-color: lightcyan;
+}
